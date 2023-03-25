@@ -3,22 +3,24 @@
 ### Goal: Build a Simple Slot Machine
 
 Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-### How to submit your code for review:
+### Link to project: https://slotmachinejc.netlify.app/
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![slotmachine](https://user-images.githubusercontent.com/126643073/227666355-63e66d42-9de0-43b2-a200-bf46e58264e9.png)
 
-Example:
+### How It's Made:
+Tech used: HTML, CSS, and JavaScript
+
+### Optimizations
+
+I decided to stray away from the typical casino slot machine and incorporate tarot cards as my reel options (which was a fun little CSS task for me.)
+
+### Lessons Learned:
+Another very early-on project me when it comes to JavaScript specifically, which was hard (but very rewarding in hind-sight) to conceptualize, as I was largely unfamiliar with the inner workings of real-life slot machines. All in all it's taught me a an essential habit that I will be maintaining for any future projects: that of pseudo-coding layouts. Once I did this and laid out my conditionals for the Math, the process flowed. 
+
+### Bottom-line:
 ```
 I completed the challenge: 5
 I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+Received help from an alum (Vic)
